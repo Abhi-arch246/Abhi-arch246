@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhi-arch246)](https://git.io/streak-stats)
+
+<br/>
+
 ## Watch my contribution graph eaten by the snake🐍
 
 ![snake gif](https://github.com/Abhi-arch246/Abhi-arch246/blob/output/github-contribution-grid-snake.gif)
