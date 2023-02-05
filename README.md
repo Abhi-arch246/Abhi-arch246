@@ -9,4 +9,4 @@ Abhi-arch246/Abhi-arch246 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github.com/Abhi-arch246/Abhi-arch246/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/Abhi-arch246/Abhi-arch246/blob/output/github-contribution-grid-snake.gif)
