@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhi-arch246&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhi-arch246&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
