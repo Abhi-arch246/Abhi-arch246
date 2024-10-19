@@ -15,7 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
-
-## Watch my contribution graph eaten by the snake🐍
-
-![snake gif](https://github.com/Abhi-arch246/Abhi-arch246/blob/output/github-contribution-grid-snake.gif)
